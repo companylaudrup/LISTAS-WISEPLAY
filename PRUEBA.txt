@@ -1,0 +1,83 @@
+	
+
+    {
+                "name": "PRUEB GITHUB",
+                "author": "PIRRI",
+                "url": "http://pastebin.com/raw.php?i=0SHf1ZM2",
+                "stations": [
+         
+    {
+                            "name": "AXN",
+                            "image": "http://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",
+                            "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=114&autoplay=true",
+                            "isHost": "true"
+                    },
+    {
+                            "name": "CALLE 13",
+                            "image": "http://3.bp.blogspot.com/_PqT4khkofNI/TCx2_8qF-1I/AAAAAAAATg0/t7K1znsbiNU/s400/antiguo.jpg",
+                            "url": "http://flashstreaming.mobi/emb/embed.php?n=z0032ca13&w=650&h=400",
+                            "isHost": "true"
+                    },  
+    {
+                           "name": "CANAL+ SERIES",
+                            "image": "http://www.teledigital.es/wp-content/uploads/2013/11/CANAL+Series.gif",
+                            "url": "http://flashstreaming.mobi/emb/embed.php?n=z0030seri&w=650&h=400",
+                            "isHost": "true"
+                   },
+    {
+                            "name": "Comedy Central",
+                            "image": "http://multipress.com.mx/wp-content/uploads/2014/05/Comedy-Central-latam.jpg",
+                            "url": "rtmp://46.28.50.124/live playpath=comedycomp?id=72013 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/comedycomp/1/620/382 conn=S:OK"
+                    },
+    {
+                            "name": "FDF",
+                            "image": "http://www.formulatv.com/fotos/a/76000/76431/padbf9eho699ynmv5c4fa5578f9aca2_logo-factoria-de-ficcion.png",
+                            "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=123&autoplay=true",
+                            "isHost": "true"
+                    },                  
+    {
+                            "name": "FOX",
+                            "image": "http://www.conectala.tv/wp-content/uploads/2013/05/FOX.png",
+                            "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=113&autoplay=true",
+                            "isHost": "true"
+                    },
+     {
+                            "name": "FOX CRIME",
+                            "image": "http://www.seriesadictos.com/wp-content/uploads/2010/02/fox-crime.jpg",
+                            "url": "http://flashstreaming.mobi/emb/embed.php?n=z0034foxc&w=670&h=400",
+                            "isHost": "true"
+                    },
+    {
+                            "name": "NEOX",
+                            "image": "http://3.bp.blogspot.com/-YKZAWdIqfE0/TjOEeCXWZTI/AAAAAAAAB0w/kwM168_hB8Q/s203/Neox+logo+2011.png",
+                            "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=122&autoplay=true",
+                            "isHost": "true"
+                    },
+    {
+                            "name": "NOVA",
+                            "image": "http://www.formulatv.com/images/noticias/27700/27743/1.jpg",
+                            "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=107&autoplay=true",
+                            "isHost": "true"
+                    },
+    {
+                            "name": "SYFY",
+                            "image": "http://cdn.realscreen.com/wp/wp-content/uploads/2011/03/syfy-logo.jpg",
+                            "url": "http://flashstreaming.mobi/emb/embed.php?n=z0038sysf&w=650&h=400",
+                            "isHost": "true"
+                   },
+    {
+                            "name": "TNT",
+                            "image": "http://www.plus.es/recorte/?id=20110916pluutmifr_2.Ies&r=LCO413&t=se",
+                            "url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=115&autoplay=true",
+                            "isHost": "true"
+                       },
+    {
+                            "name": "XTRM",
+                            "image": "http://lasala9.net/es/wp-content/uploads/2014/05/images-1.jpg",
+                            "url": "http://freetvcast.pw/embed.php?a=218&id=&width=650&height=400&autostart=tru",
+                            "isHost": "true"
+                       }
+         
+            ]
+     }
+
